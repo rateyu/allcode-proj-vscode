@@ -34,3 +34,5 @@ dedao-dl_*
 output/
 config.json
 *.class
+
+*.*~
